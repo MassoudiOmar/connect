@@ -1,0 +1,26 @@
+{
+    "welcomeMessage": "Welcome to our app!",
+    "lange": "Languages",
+    "buttonLabel": "Click me",
+    "chooseCategory": "CHOOSE CATEGORY",
+    "play": "play",
+    "FAMILY": "FAMILY",
+    "friends": "FRIENDS",
+    "mix": "Mix",
+    "Level": "Level",
+    "Congratulations": "Congratulations",
+    "youAnswered": "You answered",
+    "nextlevel": "Would you like to take it to the next level",
+    "noNextLevel": "No, I prefer to familiarize myself with the current level",
+    "moveToTheNextLevel": "Move to the next level",
+    "RemainingQuestions": "Remaining questions",
+    "level1Description":"This level allows you to take a step back from the first impressions we give and to question the assumptions we make about others.",
+    "Parameters":"Parameters",
+    "GameRules":"Game rules",
+    "LeaveTheGame":"Leave the game",
+    "Continue":"Continue",
+    "next":"Next"
+
+
+
+}

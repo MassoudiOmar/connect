@@ -1,0 +1,25 @@
+{
+  "welcomeMessage": "Bienvenue dans notre application !",
+  "buttonLabel": "Cliquez ici",
+  "lange": "Langages",
+  "chooseCategory": "CHOISIR CATEGORIE",
+  "play": "jouer",
+  "FAMILY": "FAMILLE",
+  "friends": "AMIS",
+  "mix": "Mélanger",
+  "Level": "Niveau",
+  "Congratulations": "Félicitations",
+  "youAnswered": "Vous avez répondu à",
+  "nextlevel": "Souhaitez-vous passer au niveau suivant",
+  "noNextLevel": "No, I prefer to familiarize myself with the current level",
+  "moveToTheNextLevel": "Passer au procheain niveau",
+  "RemainingQuestions": "Questions restantes",
+  "level1Description": " Ce niveau permet de prendre du recul sur les premières impressions que nous donnons et à remettre en question les suppositions que nous faisons sur les autre.",
+  "Parameters":"Paraméteres",
+  "GameRules":"Régles de jeu",
+  "LeaveTheGame":"Quitter la partie",
+  "Continue":"Continuer",
+  "next":"Suivant"
+
+
+}
